@@ -4,10 +4,10 @@ GoodReads is an object oriented program divided into different classes and files
 program in the commandline in the form "\Goodreads.out Assets", to keep the privacy of the users who have commented in the goodreads website we have used the class 
 students' names instead of them.
 After executing the program as above, it is prepared for the commands below: \
-show_author_info <author_id> \
+show_author_info <author_id> 
 
 show_sorted_shelf <user_id> <shelf_type> <genre> \
-// <shelf_type> ∈ {read, want_to_read, currently_reading} 
+// <shelf_type> ∈ {read, want_to_read, currently_reading} \
 // At first the books with the given genre are sorted alphabetically and then the rest of the books are sorted based on their title. 
 
 ‫‪credit‬‬ ‫>‪<user_id>\
