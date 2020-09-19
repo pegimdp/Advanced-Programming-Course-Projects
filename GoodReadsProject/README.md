@@ -7,17 +7,17 @@ After executing the program as above, it is prepared for the commands below: \
 show_author_info <author_id> \
 
 show_sorted_shelf <user_id> <shelf_type> <genre> \
-// <shelf_type> ∈ {read, want_to_read, currently_reading} \
-// At first the books with the given genre are sorted alphabetically and then the rest of the books are sorted based on their title. \
+// <shelf_type> ∈ {read, want_to_read, currently_reading} 
+// At first the books with the given genre are sorted alphabetically and then the rest of the books are sorted based on their title. 
 
 ‫‪credit‬‬ ‫>‪<user_id>\
-//printing the user's credit \
-//user_credit = (1/2) * (number_of_users_reviews_likes/number_of_likes +number_of_user_reviews/number_of_reviews) \
+//printing the user's credit 
+//user_credit = (1/2) * (number_of_users_reviews_likes/number_of_likes +number_of_user_reviews/number_of_reviews) 
 
 ‫‪best_book‬‬ \
-//the book with the highest average score \
+//the book with the highest average score 
 
-best_reviewer 
+best_reviewer \
 //the reviewer with the highest number of review likes 
 
 recommend_first_approach <user_id> \
