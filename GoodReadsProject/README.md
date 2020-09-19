@@ -24,6 +24,6 @@ recommend_first_approach <user_id> \
 //the recommendation is based on the sume of two criteria : score = rating + favorite_genres \
 //rating = (for each review in reviews of book sum(review_rating * review_user_credit)/number_of _reviews_of _book \
 //favorite_genres = 5 , if book and user favorites have genres in common \
-//favorite_genres = 0 , otherwise \
+//favorite_genres = 0 , otherwise 
 
-For more examples I have attached the "Description.pdf" file in Persian and "Samples" which were provided in the course. \
+For more examples I have attached the "Description.pdf" file in Persian and "Samples" which were provided in the course. 
