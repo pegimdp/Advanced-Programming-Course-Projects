@@ -17,8 +17,8 @@ show_sorted_shelf <user_id> <shelf_type> <genre> \
 ‫‪best_book‬‬ \
 //the book with the highest average score \
 
-best_reviewer \
-//the reviewer with the highest number of review likes \
+best_reviewer 
+//the reviewer with the highest number of review likes 
 
 recommend_first_approach <user_id> \
 //the recommendation is based on the sume of two criteria : score = rating + favorite_genres \
