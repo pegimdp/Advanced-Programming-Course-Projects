@@ -26,4 +26,4 @@ recommend_first_approach <user_id>
 //favorite_genres = 5 , if book and user favorites have genres in common
 //favorite_genres = 0 , otherwise 
 
-For more examples I have attached the "Description.pdf" file in Persian which was the project explanation in the course.
+For more examples I have attached the "Description.pdf" file in Persian and "Samples" which were provided in the course.
