@@ -11,3 +11,4 @@ An example of input:
 
 After making the program with the given makefile, it can be run by: ‫‪./FieldRunners.out‬‬ ‫<‬ ‫‪waves.txt‬‬
 
+![alt text](https://github.com/pegimdp/Advanced-Programming-Course-Projects/blob/master/FieldRunners/game_example.png)
