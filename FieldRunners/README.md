@@ -1,5 +1,4 @@
-The goal of this project was getting skilled in event driven object oriented programming and using graphical libraries. \
-
+The goal of this project was getting skilled in event driven object oriented programming and using graphical libraries. 
 
 Instead of SDL we used an intermeiary library called RSDL which is available here : https://github.com/UTAP/RSDL \
 FieldsRunner is an adaptation of the famous video game which was developed for several platforms.
